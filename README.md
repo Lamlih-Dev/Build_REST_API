@@ -7,6 +7,7 @@ Building this REST API, i learned a lot of things such as :
   <li>How to use Nodemon (To refresh automatically when changes occurred)</li>
   <li>How to use Node JS and Express</li>
   <li>How to use Express Routing</li>
+  <li>Middlewares</li>
   <li>Exploit all the requests (POST, GET, DELETE, PATCH)</li>
   <li>Difference between PUT and PATCH</li>
   <li>File management by separating the routes and the controllers from the index file</li>
