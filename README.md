@@ -1,6 +1,6 @@
 # Build a REST API with Node JS and Express
 It's been a while im listening the word REST API and always wondered what is it? What it's used for? <br>
-Today i made a desition to start learning how it works and how to build one, this is my first REST API that i created with Node JS and Express
+Today i made a decition to start learning how it works and how to build one, this is my first REST API that i created with Node JS and Express
 (Without MongoDB, i wanted to learn and know how it works in a simple way) which it's manage the users (Create - Read - Update - Delete). <br>
 Building this REST API, i learned a lot of things such as :
 <ul>
